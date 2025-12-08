@@ -1,0 +1,8 @@
+numpy==1.24.4
+tqdm==4.62.2
+python==3.8.18
+pytorch==1.9.0
+cudatoolkit==10.2.89
+transformers==4.10.0
+sentence-transformers==2.2.2
+openprompt==1.0
