@@ -1,5 +1,5 @@
 # DCPER
-The implementation of DCPER: Zero-shot cross-domain slot filling via Domain-aware Comparative prompting with Post-hoc Entity Refining. 
+The implementation of DCPER: Zero-shot cross-domain slot filling via Domain-aware Contrastive prompting with Post-hoc Entity Refining. 
 
 The code for subsequent train.py and retriever.py will be published after the paper is accepted.
 
